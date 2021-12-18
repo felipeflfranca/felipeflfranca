@@ -8,5 +8,5 @@
 * Experience in SOAP and REST API
 * Experience in MySQL and PostgreSQL Databases
 * Experience in Codeigniter and Laravel PHP framework
-* Experience in React and Bootstrap
+* Experience in React.js
 * Ability to prioritize and execute tasks efficiently in a fast-paced environment
